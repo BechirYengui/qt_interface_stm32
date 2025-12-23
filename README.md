@@ -483,10 +483,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **Bechir** - *Développement initial* - IMT Atlantique
 - Voir aussi la liste des [contributeurs](https://github.com/votre-repo/stm32-interface/contributors)
 
----
-
-
----
-
-**Développé avec ❤️ à IMT Atlantique**
-# qt_interface_stm32
