@@ -5,7 +5,7 @@
 [![C++](https://img.shields.io/badge/C++-17-orange.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Projet développé dans le cadre des travaux pratiques à IMT Atlantique**
+**Projet développé **
 
 ## 📋 Description
 
@@ -480,6 +480,5 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Auteurs
 
-- **Bechir** - *Développement initial* - IMT Atlantique
-- Voir aussi la liste des [contributeurs](https://github.com/votre-repo/stm32-interface/contributors)
+- **Bechir**
 
