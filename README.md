@@ -485,20 +485,6 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-## 🙏 Remerciements
-
-- IMT Atlantique pour l'encadrement du projet
-- Communauté Qt pour la documentation exhaustive
-- STMicroelectronics pour les HAL libraries
-- Tous les contributeurs open-source
-
----
-
-## 📞 Contact
-
-- **Email**: votre.email@imt-atlantique.net
-- **GitHub**: [@votre-username](https://github.com/votre-username)
-- **LinkedIn**: [Votre Profil](https://linkedin.com/in/votre-profil)
 
 ---
 
