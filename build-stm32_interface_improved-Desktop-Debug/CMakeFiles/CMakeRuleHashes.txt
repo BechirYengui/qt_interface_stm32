@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+758499665b90e18ce25b73ed8ba7b764 CMakeFiles/STM32Interface_autogen
