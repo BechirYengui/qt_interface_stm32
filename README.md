@@ -405,26 +405,7 @@ stm32_interface_improved/
 │       ├── SerialManager.{h,cpp}
 │       ├── SerialWorker.{h,cpp}
 │       └── JsonProtocol.{h,cpp}
-│
-├── qml/                     # Interface QML (optionnelle)
-│   ├── main.qml
-│   ├── components/
-│   └── resources.qrc
-│
-├── stm32_firmware/          # Firmware embarqué
-│   ├── main_with_dma.c      # Code principal avec DMA
-│   ├── stm32f1xx_hal_conf.h
-│   └── README_STM32.md
-│
-├── docs/                    # Documentation
-│   ├── architecture.md
-│   ├── api_reference.md
-│   └── user_guide.md
-│
-└── tests/                   # Tests unitaires
-    ├── test_devicestate.cpp
-    ├── test_jsonprotocol.cpp
-    └── test_datamodel.cpp
+____ MainWindow.ui
 ```
 
 ---
